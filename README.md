@@ -41,4 +41,4 @@ A wish of love towards me will be enough
 
 ## License
 
-[learntocloud.guide](https://learntocloud.guide/)
+[learntocloud.guide](https://learntocloud.guide/phase1/#capstone-project-clouduploader-cli)
