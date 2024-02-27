@@ -40,7 +40,7 @@ az storage blob upload \
 
 # Check if upload was successful
 if [ $? -eq 0 ]; then
-  echo "File uploaded successfully to Azure Blob Storage."
+  echo "File uploaded successfully to Azure Blob Storage"
 else
-  echo "Error: Failed to upload file to Azure Blob Storage."
+  echo "Error: Failed to upload file to Azure Blob Storage"
 fi
