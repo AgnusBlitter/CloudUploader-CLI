@@ -37,7 +37,7 @@ chmod 700 CloudUploader-CLI.sh
 
 ## Improvements
 
-> verify if the file to upload exist
+Verify if the file to upload exist
 
 ## Contributing
 
