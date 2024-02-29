@@ -23,7 +23,7 @@ else
     echo -n "Plz enter account name : "
     read storage_account
     echo -n "Plz enter storage account key : "
-    read account_key
+    read storage_account_key
     echo -n "Plz enter container account name : "
     read container_name
 fi
