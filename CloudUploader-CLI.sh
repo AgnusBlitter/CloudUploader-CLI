@@ -34,7 +34,7 @@ az login
 # Upload the file to Azure Blob Storage
 az storage blob upload \
   --account-name $storage_account \
-  --account-key $account_key \
+  --account-key $storage_account_key \
   --container-name $container_name \
   --file $file_path
 
