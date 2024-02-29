@@ -33,7 +33,11 @@ chmod 700 CloudUploader-CLI.sh
 4. Run the script providing file path as an argument
 ```bash
 ./CloudUploader-CLI.sh /pathofyourfile/filetoupload
-``` 
+```
+
+## Improvements
+
+> verify if the file to upload exist
 
 ## Contributing
 
